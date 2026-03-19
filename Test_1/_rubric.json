@@ -1,0 +1,67 @@
+[
+  {
+    "Test 1 (207573)": "A1",
+    "Score": 10,
+    "Description": "Without using a loop, input three integers."
+  },
+  {
+    "Test 1 (207573)": "A2",
+    "Score": 10,
+    "Description": "Determine which quotients of the two numbers from the three numbers entered are not zero, ensuring its divisor also not zero."
+  },
+  {
+    "Test 1 (207573)": "A3",
+    "Score": 10,
+    "Description": "Include all the non-zero remainders that satisfy the conditions above into the average."
+  },
+  {
+    "Test 1 (207573)": "A4",
+    "Score": 10,
+    "Description": "If such an average exists, print out the average."
+  },
+  {
+    "Test 1 (207573)": "B1",
+    "Score": 10,
+    "Description": "Using a loop, Input a sequence of integer pairs (a and b) until any integer entered is zero."
+  },
+  {
+    "Test 1 (207573)": "B2",
+    "Score": 10,
+    "Description": "For each pair, determine which quotient of the pairs entered (a and b) is not zero."
+  },
+  {
+    "Test 1 (207573)": "B3",
+    "Score": 10,
+    "Description": "Include all the non-zero remainders into the average whenever that condition is true."
+  },
+  {
+    "Test 1 (207573)": "B4",
+    "Score": 10,
+    "Description": "Print out the average if such an average exists."
+  },
+  {
+    "Test 1 (207573)": "C1",
+    "Score": 5,
+    "Description": "Enter a sequence of integers until two identical numbers are entered continuously - setting valid previous value."
+  },
+  {
+    "Test 1 (207573)": "C2",
+    "Score": 5,
+    "Description": "Maximum number with an increasing last digit: find the MAXIMUM of the numbers entered in increasing order when its last digit is in increasing order compared to the previous number."
+  },
+  {
+    "Test 1 (207573)": "C3",
+    "Score": 5,
+    "Description": "Minimum number with a decreasing last digit: find the MINIMUM of the numbers entered when its last digit is in decreasing order compared to the previous number."
+  },
+  {
+    "Test 1 (207573)": "C4",
+    "Score": 5,
+    "Description": "Print out the number of values (count) entered that lie between these minimum and maximum values if such maximum and minimum points exist in the sequence of numbers entered. "
+  },
+  {
+    "Test 1 (207573)": "Total",
+    "Score": 100,
+    "Description": 12
+  }
+]

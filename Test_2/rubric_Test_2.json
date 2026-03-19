@@ -1,0 +1,97 @@
+[
+  {
+    "Test 2 (207574)": "A1",
+    "Score": 10,
+    "Description": "\u2460 Create and test the function that accepts an integer array."
+  },
+  {
+    "Test 2 (207574)": "A2",
+    "Score": 10,
+    "Description": "\u2461 The function then calculates and returns the average of all the values that EXCEED the running average of their previous numbers."
+  },
+  {
+    "Test 2 (207574)": "A2b",
+    "Score": 10,
+    "Description": "\u2461\u24d1 If a value doesn\u2019t have any previous values, that value will not be considered in the average."
+  },
+  {
+    "Test 2 (207574)": "A2c",
+    "Score": 10,
+    "Description": "\u2461\u24d2 The running average of all the previous numbers is calculated by taking the sum divided by the count starting from the first element till the previous element."
+  },
+  {
+    "Test 2 (207574)": "A3",
+    "Score": 10,
+    "Description": "\u2462 If the function cannot determine any such values, it returns zero."
+  },
+  {
+    "Test 2 (207574)": "B1",
+    "Score": 10,
+    "Description": "\u2776 Create and test the method that accepts an array."
+  },
+  {
+    "Test 2 (207574)": "B2",
+    "Score": 10,
+    "Description": "\u2777 The method creates and returns a new array newArray that essentially has a length of array.Length*(array.Length + 1)/2. \u2778  First, copy all the values from the original array into the newArray."
+  },
+  {
+    "Test 2 (207574)": "B3",
+    "Score": 10,
+    "Description": "\u2779 Within the nested loop, insert all the previously inserted values,"
+  },
+  {
+    "Test 2 (207574)": "B4",
+    "Score": 10,
+    "Description": "\u2779  excluding one of their smallest values, into the newArray."
+  },
+  {
+    "Test 2 (207574)": "B5",
+    "Score": 10,
+    "Description": "\u277a Iterate through Step 4 until there are no more elements to insert.  \u277b For maximum credit, your time complexity should be O(n\u00b2). The space complexity should be O(n\u00b2) for the result array. Do not create an additional array. Do not sort the array."
+  },
+  {
+    "Test 2 (207574)": "B",
+    "Score": null,
+    "Description": "We will have a makeup Test for Problem B on nested loops during the first half of the class on April 10th. You are expected to complete the code within 90 minutes, not 2 or 3 hours!! So, please practice the old HW problems on nested loops. Your makeup Test 2 Problem B will replace the existing score from Problem B (50% of your overall Test 2 score) if it's higher than your existing Problem B score."
+  },
+  {
+    "Test 2 (207574)": "C1",
+    "Score": null,
+    "Description": "\u24f5 Create a function named f(x, b, c) that accepts three arguments: a) Integer x; b)\u00a0An integer b; c) Positive integer c"
+  },
+  {
+    "Test 2 (207574)": "C2",
+    "Score": null,
+    "Description": "\u24f6 The function then calculates and returns the integer value from the following equation: f(x;b,c)=x\u00b2+bx\u2212c"
+  },
+  {
+    "Test 2 (207574)": "C3",
+    "Score": null,
+    "Description": "\u24f7 Create and test this second function called \u201cFindRoot\u201d that accepts two positive integers: integer b and positive c."
+  },
+  {
+    "Test 2 (207574)": "C4",
+    "Score": null,
+    "Description": "\u24f8 The \u201cFindRoot\u201d function uses the binary search algorithm to find the positive integer root x of the Parabola function by calling the first function "
+  },
+  {
+    "Test 2 (207574)": "C5",
+    "Score": null,
+    "Description": "\u24f9 Since we are searching for the positive root, we need to locate the search region between 1 and the high value (since the root has to be positive): a)\u00a0\u00a0\u00a0\u00a0 To estimate the high value, we\u2019ll iteratively double the search value starting from the value 1 until f(high) >= 0."
+  },
+  {
+    "Test 2 (207574)": "C6",
+    "Score": null,
+    "Description": "\u24fa Having determined the high value, use the binary search to locate the integer root that intersects the x-axis."
+  },
+  {
+    "Test 2 (207574)": "C7",
+    "Score": null,
+    "Description": "\u24fb Time complexity: o(log n). Space complexity: O(1)"
+  },
+  {
+    "Test 2 (207574)": "Total",
+    "Score": 100,
+    "Description": 18
+  }
+]

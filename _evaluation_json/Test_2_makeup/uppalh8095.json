@@ -1,0 +1,53 @@
+{
+  "student_id": "uppalh8095",
+  "test": "Test_2_makeup",
+  "total_score": 50.0,
+  "max_score": 50.0,
+  "questions": [
+    {
+      "question_title": "RaiseAPolynomialToPowerN",
+      "score": 50.0,
+      "max_score": 50.0,
+      "rubric_items": [
+        {
+          "description": "1) Create and test a method that accepts the following two parameters: an array of integers and integer n.",
+          "score": 7.0,
+          "max_score": 7.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "2) When the value of n is negative or zero OR when the array of integers is null or empty, the method simply returns a null.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "3a) The method returns an array of integers that has a length of n(length - 1) + 1: 3b) The first step is to first copy all the values from the original array to the end of the return array.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "3) Inner Loops: multiply the appropriate elements based on how the polynomial is multiplied in the array.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "3) Inner Loops: Shift and sum up the coefficients",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "3) Outer Loop: Repeat the process for n - 1 times.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    }
+  ],
+  "notes": "Auto-scored based on code presence for rubric items."
+}

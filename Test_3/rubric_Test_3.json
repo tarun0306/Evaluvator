@@ -1,0 +1,82 @@
+[
+  {
+    "Final Exam (207548)": "A1",
+    "Score": 10,
+    "Description": "Create a console application that prompts the user to enter two numbers: a)\u00a0\u00a0\u00a0 Integer (can be positive or negative) and b)\u00a0\u00a0\u00a0 Base-N (must be positive)"
+  },
+  {
+    "Final Exam (207548)": "A2",
+    "Score": 10,
+    "Description": "The app should iteratively ensure that the base-N entered is positive, i.e., re-prompt if a negative or zero is entered."
+  },
+  {
+    "Final Exam (207548)": "A3",
+    "Score": 8,
+    "Description": "The app should break down the given integer into base-N digits by repeatedly fetching the remainders as Base-N digits and dividing the integer by N."
+  },
+  {
+    "Final Exam (207548)": "A4",
+    "Score": 4,
+    "Description": "Then, the app then calculates and displays the sum of all these Base-N digits."
+  },
+  {
+    "Final Exam (207548)": "A5",
+    "Score": 3,
+    "Description": "The app also determines the largest Base-N digit "
+  },
+  {
+    "Final Exam (207548)": "B1",
+    "Score": 8,
+    "Description": "Create and test a method that accepts an array."
+  },
+  {
+    "Final Exam (207548)": "B2",
+    "Score": 8,
+    "Description": "The method returns the count array with the same length as the original array."
+  },
+  {
+    "Final Exam (207548)": "B3",
+    "Score": 8,
+    "Description": "In a nested loop, the method then counts the number of insertions necessary for each element and store them into the count array."
+  },
+  {
+    "Final Exam (207548)": "B4",
+    "Score": 10,
+    "Description": "Implement it in O(n^2) time without fully implementing the insertion sort algorithm."
+  },
+  {
+    "Final Exam (207548)": "C1",
+    "Score": 5,
+    "Description": "Create and test a method that accepts an array as input."
+  },
+  {
+    "Final Exam (207548)": "C2",
+    "Score": 5,
+    "Description": "The method should then count the occurrence of each number in the array and store them into a dictionary."
+  },
+  {
+    "Final Exam (207548)": "C3",
+    "Score": 5,
+    "Description": "Next, the method iterates through the dictionary to identify all the largest numbers for different frequencies."
+  },
+  {
+    "Final Exam (207548)": "C4",
+    "Score": 5,
+    "Description": "Finally, it should sum up all the products of these values with their corresponding frequencies to determine the \u201csum of all the largest numbers repeated in every different frequency.\u201d"
+  },
+  {
+    "Final Exam (207548)": "C5",
+    "Score": 5,
+    "Description": "Return 0 when the input is array is invalid (i.e., null)."
+  },
+  {
+    "Final Exam (207548)": "C6",
+    "Score": 6,
+    "Description": "To achieve O(n) time complexity, we can use two dictionaries: one for counting the occurrences and another for tracking the largest value for different frequencies"
+  },
+  {
+    "Final Exam (207548)": "Total",
+    "Score": 100,
+    "Description": 15
+  }
+]

@@ -1,0 +1,249 @@
+{
+  "student_id": "bhagams4063",
+  "test": "Test_1",
+  "total_score": 300.0,
+  "max_score": 300.0,
+  "questions": [
+    {
+      "question_title": "test1",
+      "score": 100.0,
+      "max_score": 100.0,
+      "rubric_items": [
+        {
+          "description": "Without using a loop, input three integers.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Determine which quotients of the two numbers from the three numbers entered are not zero, ensuring its divisor also not zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Include all the non-zero remainders that satisfy the conditions above into the average.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "If such an average exists, print out the average.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Using a loop, Input a sequence of integer pairs (a and b) until any integer entered is zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "For each pair, determine which quotient of the pairs entered (a and b) is not zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Include all the non-zero remainders into the average whenever that condition is true.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Print out the average if such an average exists.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Enter a sequence of integers until two identical numbers are entered continuously - setting valid previous value.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Maximum number with an increasing last digit: find the MAXIMUM of the numbers entered in increasing order when its last digit is in increasing order compared to the previous number.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Minimum number with a decreasing last digit: find the MINIMUM of the numbers entered when its last digit is in decreasing order compared to the previous number.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Print out the number of values (count) entered that lie between these minimum and maximum values if such maximum and minimum points exist in the sequence of numbers entered.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    },
+    {
+      "question_title": "test2",
+      "score": 100.0,
+      "max_score": 100.0,
+      "rubric_items": [
+        {
+          "description": "Without using a loop, input three integers.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Determine which quotients of the two numbers from the three numbers entered are not zero, ensuring its divisor also not zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Include all the non-zero remainders that satisfy the conditions above into the average.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "If such an average exists, print out the average.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Using a loop, Input a sequence of integer pairs (a and b) until any integer entered is zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "For each pair, determine which quotient of the pairs entered (a and b) is not zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Include all the non-zero remainders into the average whenever that condition is true.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Print out the average if such an average exists.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Enter a sequence of integers until two identical numbers are entered continuously - setting valid previous value.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Maximum number with an increasing last digit: find the MAXIMUM of the numbers entered in increasing order when its last digit is in increasing order compared to the previous number.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Minimum number with a decreasing last digit: find the MINIMUM of the numbers entered when its last digit is in decreasing order compared to the previous number.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Print out the number of values (count) entered that lie between these minimum and maximum values if such maximum and minimum points exist in the sequence of numbers entered.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    },
+    {
+      "question_title": "test3",
+      "score": 100.0,
+      "max_score": 100.0,
+      "rubric_items": [
+        {
+          "description": "Without using a loop, input three integers.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Determine which quotients of the two numbers from the three numbers entered are not zero, ensuring its divisor also not zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Include all the non-zero remainders that satisfy the conditions above into the average.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "If such an average exists, print out the average.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Using a loop, Input a sequence of integer pairs (a and b) until any integer entered is zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "For each pair, determine which quotient of the pairs entered (a and b) is not zero.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Include all the non-zero remainders into the average whenever that condition is true.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Print out the average if such an average exists.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Enter a sequence of integers until two identical numbers are entered continuously - setting valid previous value.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Maximum number with an increasing last digit: find the MAXIMUM of the numbers entered in increasing order when its last digit is in increasing order compared to the previous number.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Minimum number with a decreasing last digit: find the MINIMUM of the numbers entered when its last digit is in decreasing order compared to the previous number.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Print out the number of values (count) entered that lie between these minimum and maximum values if such maximum and minimum points exist in the sequence of numbers entered.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    }
+  ],
+  "notes": "Auto-scored based on code presence for rubric items."
+}

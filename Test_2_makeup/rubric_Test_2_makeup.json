@@ -1,0 +1,37 @@
+[
+  {
+    "Test 2 (Makeup) (244399)": "B1",
+    "Score": 7,
+    "Description": "1) Create and test a method that accepts the following two parameters: an array of integers and integer n."
+  },
+  {
+    "Test 2 (Makeup) (244399)": "B2",
+    "Score": 8,
+    "Description": "2) When the value of n is negative or zero OR when the array of integers is null or empty, the method simply returns a null."
+  },
+  {
+    "Test 2 (Makeup) (244399)": "B3",
+    "Score": 10,
+    "Description": "3a) The method returns an array of integers that has a length of n(length - 1) + 1: 3b) The first step is to first copy all the values from the original array to the end of the return array."
+  },
+  {
+    "Test 2 (Makeup) (244399)": "B4",
+    "Score": 10,
+    "Description": "3) Inner Loops: multiply the appropriate elements based on how the polynomial is multiplied in the array."
+  },
+  {
+    "Test 2 (Makeup) (244399)": "B5",
+    "Score": 10,
+    "Description": "3) Inner Loops: Shift and sum up the coefficients"
+  },
+  {
+    "Test 2 (Makeup) (244399)": "B6",
+    "Score": 5,
+    "Description": "3) Outer Loop: Repeat the process for n - 1 times."
+  },
+  {
+    "Test 2 (Makeup) (244399)": "Total",
+    "Score": 50,
+    "Description": 6
+  }
+]

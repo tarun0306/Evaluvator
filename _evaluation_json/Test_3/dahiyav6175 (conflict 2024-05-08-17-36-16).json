@@ -1,0 +1,303 @@
+{
+  "student_id": "dahiyav6175 (conflict 2024-05-08-17-36-16)",
+  "test": "Test_3",
+  "total_score": 300.0,
+  "max_score": 300.0,
+  "questions": [
+    {
+      "question_title": "Dahiya ISAM5430 Final\uff0fA\uff0fA\uff0f",
+      "score": 100.0,
+      "max_score": 100.0,
+      "rubric_items": [
+        {
+          "description": "Create a console application that prompts the user to enter two numbers: a)\u00a0\u00a0\u00a0 Integer (can be positive or negative) and b)\u00a0\u00a0\u00a0 Base-N (must be positive)",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app should iteratively ensure that the base-N entered is positive, i.e., re-prompt if a negative or zero is entered.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app should break down the given integer into base-N digits by repeatedly fetching the remainders as Base-N digits and dividing the integer by N.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Then, the app then calculates and displays the sum of all these Base-N digits.",
+          "score": 4.0,
+          "max_score": 4.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app also determines the largest Base-N digit",
+          "score": 3.0,
+          "max_score": 3.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Create and test a method that accepts an array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The method returns the count array with the same length as the original array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "In a nested loop, the method then counts the number of insertions necessary for each element and store them into the count array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Implement it in O(n^2) time without fully implementing the insertion sort algorithm.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Create and test a method that accepts an array as input.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The method should then count the occurrence of each number in the array and store them into a dictionary.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Next, the method iterates through the dictionary to identify all the largest numbers for different frequencies.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Finally, it should sum up all the products of these values with their corresponding frequencies to determine the \u201csum of all the largest numbers repeated in every different frequency.\u201d",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Return 0 when the input is array is invalid (i.e., null).",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "To achieve O(n) time complexity, we can use two dictionaries: one for counting the occurrences and another for tracking the largest value for different frequencies",
+          "score": 6.0,
+          "max_score": 6.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    },
+    {
+      "question_title": "Dahiya ISAM5430 Final\uff0fB. sorting\uff0fB. sorting\uff0f",
+      "score": 100.0,
+      "max_score": 100.0,
+      "rubric_items": [
+        {
+          "description": "Create a console application that prompts the user to enter two numbers: a)\u00a0\u00a0\u00a0 Integer (can be positive or negative) and b)\u00a0\u00a0\u00a0 Base-N (must be positive)",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app should iteratively ensure that the base-N entered is positive, i.e., re-prompt if a negative or zero is entered.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app should break down the given integer into base-N digits by repeatedly fetching the remainders as Base-N digits and dividing the integer by N.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Then, the app then calculates and displays the sum of all these Base-N digits.",
+          "score": 4.0,
+          "max_score": 4.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app also determines the largest Base-N digit",
+          "score": 3.0,
+          "max_score": 3.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Create and test a method that accepts an array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The method returns the count array with the same length as the original array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "In a nested loop, the method then counts the number of insertions necessary for each element and store them into the count array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Implement it in O(n^2) time without fully implementing the insertion sort algorithm.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Create and test a method that accepts an array as input.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The method should then count the occurrence of each number in the array and store them into a dictionary.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Next, the method iterates through the dictionary to identify all the largest numbers for different frequencies.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Finally, it should sum up all the products of these values with their corresponding frequencies to determine the \u201csum of all the largest numbers repeated in every different frequency.\u201d",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Return 0 when the input is array is invalid (i.e., null).",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "To achieve O(n) time complexity, we can use two dictionaries: one for counting the occurrences and another for tracking the largest value for different frequencies",
+          "score": 6.0,
+          "max_score": 6.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    },
+    {
+      "question_title": "Dahiya ISAM5430 Final\uff0fC. Dictionary\uff0fC. Dictionary\uff0f",
+      "score": 100.0,
+      "max_score": 100.0,
+      "rubric_items": [
+        {
+          "description": "Create a console application that prompts the user to enter two numbers: a)\u00a0\u00a0\u00a0 Integer (can be positive or negative) and b)\u00a0\u00a0\u00a0 Base-N (must be positive)",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app should iteratively ensure that the base-N entered is positive, i.e., re-prompt if a negative or zero is entered.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app should break down the given integer into base-N digits by repeatedly fetching the remainders as Base-N digits and dividing the integer by N.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Then, the app then calculates and displays the sum of all these Base-N digits.",
+          "score": 4.0,
+          "max_score": 4.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The app also determines the largest Base-N digit",
+          "score": 3.0,
+          "max_score": 3.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Create and test a method that accepts an array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The method returns the count array with the same length as the original array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "In a nested loop, the method then counts the number of insertions necessary for each element and store them into the count array.",
+          "score": 8.0,
+          "max_score": 8.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Implement it in O(n^2) time without fully implementing the insertion sort algorithm.",
+          "score": 10.0,
+          "max_score": 10.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Create and test a method that accepts an array as input.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "The method should then count the occurrence of each number in the array and store them into a dictionary.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Next, the method iterates through the dictionary to identify all the largest numbers for different frequencies.",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Finally, it should sum up all the products of these values with their corresponding frequencies to determine the \u201csum of all the largest numbers repeated in every different frequency.\u201d",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "Return 0 when the input is array is invalid (i.e., null).",
+          "score": 5.0,
+          "max_score": 5.0,
+          "notes": "Auto-scored: code present."
+        },
+        {
+          "description": "To achieve O(n) time complexity, we can use two dictionaries: one for counting the occurrences and another for tracking the largest value for different frequencies",
+          "score": 6.0,
+          "max_score": 6.0,
+          "notes": "Auto-scored: code present."
+        }
+      ],
+      "feedback": "Auto-scored from code presence."
+    }
+  ],
+  "notes": "Auto-scored based on code presence for rubric items."
+}
